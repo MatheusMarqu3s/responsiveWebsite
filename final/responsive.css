@@ -4,6 +4,12 @@ html {
     font-size: 50%;
 }
 
+@media(max-width: 769px){
+    .form-group .input-control{
+        width: 95%;
+    }
+}
+
 @media (max-width: 630px) {
 
     .hero .container {
